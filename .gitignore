@@ -1,5 +1,5 @@
-./apagar
-./config.pl
-./deprecated/
-./test*
+apagar
+config.pl
+deprecated/
+test*
 
